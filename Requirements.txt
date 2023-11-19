@@ -1,0 +1,3 @@
+mysql-connector==2.2.9
+socket==3.11.6
+threading==3.11.6
